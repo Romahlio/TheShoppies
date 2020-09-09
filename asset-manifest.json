@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheShoppies/static/css/main.eac59f64.chunk.css",
+    "main.js": "/TheShoppies/static/js/main.2e3c0474.chunk.js",
+    "main.js.map": "/TheShoppies/static/js/main.2e3c0474.chunk.js.map",
+    "runtime-main.js": "/TheShoppies/static/js/runtime-main.bb1825b9.js",
+    "runtime-main.js.map": "/TheShoppies/static/js/runtime-main.bb1825b9.js.map",
+    "static/js/2.3eb0f3f1.chunk.js": "/TheShoppies/static/js/2.3eb0f3f1.chunk.js",
+    "static/js/2.3eb0f3f1.chunk.js.map": "/TheShoppies/static/js/2.3eb0f3f1.chunk.js.map",
+    "index.html": "/TheShoppies/index.html",
+    "precache-manifest.bc9f142cc1c19350aa2d62e18a1f207f.js": "/TheShoppies/precache-manifest.bc9f142cc1c19350aa2d62e18a1f207f.js",
+    "service-worker.js": "/TheShoppies/service-worker.js",
+    "static/css/main.eac59f64.chunk.css.map": "/TheShoppies/static/css/main.eac59f64.chunk.css.map",
+    "static/js/2.3eb0f3f1.chunk.js.LICENSE.txt": "/TheShoppies/static/js/2.3eb0f3f1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TheShoppies/static/media/Sitka.abd01a79.ttc"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb1825b9.js",
+    "static/js/2.3eb0f3f1.chunk.js",
+    "static/css/main.eac59f64.chunk.css",
+    "static/js/main.2e3c0474.chunk.js"
+  ]
+}
