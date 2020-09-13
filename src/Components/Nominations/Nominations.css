@@ -1,0 +1,31 @@
+.nominations {
+    color: white;
+    width: 660px;
+    margin: auto;
+    display: flex;
+}
+
+.nominee {
+    background-color: #FFD700;
+    color: #000000;
+    cursor: pointer;
+    width: 200px;
+    height: 60px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+}
+
+.empty-nominee {
+    cursor: pointer;
+    width: 200px;
+    height: 60px;
+    border-radius: 5px;
+    border-color: #FFD700;
+    border-style: dashed;
+    border-width: 2px;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+}
